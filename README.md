@@ -1,3 +1,5 @@
+#Boilerplate TROISIDesign Fork Notice: All questions and concerns should go to the base repo.
+
 # ffevc
 ffmpeg supporting EVC codec and file formats. 
 
